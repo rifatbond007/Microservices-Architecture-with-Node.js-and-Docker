@@ -1,4 +1,4 @@
-# Microservices Architecture
+# Microservices Architecture for learning
 
 This project demonstrates a complete Docker-based microservices architecture using Node.js, Express, JWT authentication, and NGINX as an API gateway.
 
